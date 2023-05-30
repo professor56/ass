@@ -1,0 +1,6 @@
+﻿  Reverse Array.cpp
+C:\Users\Aditya12\Desktop\Assignment\Reverse Array\Reverse Array\Reverse Array.cpp(14,13): error C2131: expression did not evaluate to a constant
+C:\Users\Aditya12\Desktop\Assignment\Reverse Array\Reverse Array\Reverse Array.cpp(14,13): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\Aditya12\Desktop\Assignment\Reverse Array\Reverse Array\Reverse Array.cpp(14,13): message : see usage of 'n'
+C:\Users\Aditya12\Desktop\Assignment\Reverse Array\Reverse Array\Reverse Array.cpp(16,13): warning C4552: '>>': result of expression not used
+C:\Users\Aditya12\Desktop\Assignment\Reverse Array\Reverse Array\Reverse Array.cpp(20,24): warning C4552: '<<': result of expression not used
